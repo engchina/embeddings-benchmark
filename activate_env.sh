@@ -3,7 +3,7 @@
 source ~/miniconda3/etc/profile.d/conda.sh
 
 # Activate the desired conda environment
-conda activate coder-artifacts
+conda activate embeddings-benchmark
 
 # Start a new shell session in the activated environment
-PS1="(coder-artifacts) \u@\h:\w# " bash --noprofile --norc
+PS1="(embeddings-benchmark) \u@\h:\w# " bash --noprofile --norc
